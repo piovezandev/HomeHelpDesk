@@ -1,0 +1,54 @@
+
+    section{
+ margin: 40px 80px 5px 5px;
+ }
+
+ h2{
+  
+   margin: 40px 5px 5px 750px;
+   color :white; 
+   
+   }
+  
+  #titulo{
+ float: left;
+color: #E6E6E6;
+padding :10px;
+}
+
+nav{
+  float: left;
+color: white;
+padding :10px;
+}
+
+
+ .form-group{
+  color: white;
+ }
+
+  .form-inline{
+    padding: 5px;
+    margin: 10px 5px 5px 580px;
+
+  }
+ 
+
+
+  .imagemFundo {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('http://wallpaper.ultradownloads.com.br/134798_Papel-de-Parede-Placa-Logica_1440x900.jpg');
+    background-repeat:repeat;
+  }
+
+  .teste{
+    color:white;
+  }
+    
+  
